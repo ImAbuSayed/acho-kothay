@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/acho-kothay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Acho Kothay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/acho-kothay/) |
+| **Get License** | [Get License For Acho Kothay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/acho-kothay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঝুম আঁধারে স্মৃতির ভেলায় আমি ভাসি
+> ভেলায় ভাসি
+> তোমার প্রেমের বিষে আজও আমি পুড়তে ভালোবাসি
+> অদৃশ্য মায়ায় তুমি বাঁধলে কেন আমায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
