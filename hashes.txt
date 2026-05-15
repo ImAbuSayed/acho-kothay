@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Acho Kothay
+
+This log tracks the cryptographic history and versioning for the song **Acho Kothay** (acho-kothay).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T03:09:08.604323 | `v1` | `0beead967982355620e0f7aeef6c3d3b83e09aa3e6c36c1e5b380eb715d4e9c9` | `138224c52b0e9c970a76bb4f1197c6e1484764c3780af51d6a7efbd6b93e6087` | `2026-05-16_acho-kothay-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/acho-kothay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Acho Kothay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/acho-kothay/) |
+| **Get License** | [Secure Licensing Rights for Acho Kothay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/acho-kothay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0beead967982355620e0f7aeef6c3d3b83e09aa3e6c36c1e5b380eb715d4e9c9` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
